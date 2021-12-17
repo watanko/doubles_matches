@@ -5,7 +5,7 @@
 
 ## 2.使い方
 1. まずnumbersなどを使ってnames.csvを編集し、希望の名前に変更します。
-2. pythonでコードを動かします。doubles_machesに移動して、例えば参加者10名、一人当たり4試合の場合は
+2. pythonでコードを動かします。doubles_matchesに移動して、例えば参加者10名、一人当たり4試合の場合は
 ```
     python doubles.py -g 4 -p 10
 ```
